@@ -10,7 +10,7 @@ import lombok.Setter;
 @Entity
 @Getter
 @Setter
-public class Match {
+class Match {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

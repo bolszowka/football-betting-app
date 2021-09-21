@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 @RequiredArgsConstructor
-public class MatchService {
+class MatchService {
 
     private final MatchRepository repository;
     private final MatchMapper mapper;

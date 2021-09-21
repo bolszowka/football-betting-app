@@ -3,7 +3,7 @@ package com.example.footballbettingapp.matches;
 import org.mapstruct.Mapper;
 
 @Mapper(componentModel = "spring")
-public interface MatchMapper {
+interface MatchMapper {
 
     Match toEntity(CreateMatchDto dto);
 
