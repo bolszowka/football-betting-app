@@ -1,4 +1,4 @@
-package com.example.footballbettingapp.matches;
+package com.bolszowka.footballbettingapp.matches;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

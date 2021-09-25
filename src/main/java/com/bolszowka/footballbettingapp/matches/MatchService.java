@@ -1,4 +1,4 @@
-package com.example.footballbettingapp.matches;
+package com.bolszowka.footballbettingapp.matches;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

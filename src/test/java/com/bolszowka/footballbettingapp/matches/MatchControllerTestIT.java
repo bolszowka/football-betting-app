@@ -1,4 +1,4 @@
-package com.example.footballbettingapp.matches;
+package com.bolszowka.footballbettingapp.matches;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;

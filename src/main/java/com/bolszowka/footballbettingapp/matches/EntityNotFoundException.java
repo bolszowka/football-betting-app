@@ -1,4 +1,4 @@
-package com.example.footballbettingapp.matches;
+package com.bolszowka.footballbettingapp.matches;
 
 public class EntityNotFoundException extends RuntimeException {
 

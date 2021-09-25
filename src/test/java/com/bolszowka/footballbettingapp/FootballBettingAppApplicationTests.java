@@ -1,4 +1,4 @@
-package com.example.footballbettingapp;
+package com.bolszowka.footballbettingapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

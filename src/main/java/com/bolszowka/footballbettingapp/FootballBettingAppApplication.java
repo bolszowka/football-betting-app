@@ -1,4 +1,4 @@
-package com.example.footballbettingapp;
+package com.bolszowka.footballbettingapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

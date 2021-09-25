@@ -1,4 +1,4 @@
-package com.example.footballbettingapp.matches;
+package com.bolszowka.footballbettingapp.matches;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
