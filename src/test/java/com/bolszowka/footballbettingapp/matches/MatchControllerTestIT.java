@@ -58,6 +58,6 @@ class MatchControllerTestIT {
         mockMvc.perform(get("/match/" + matchId))
             .andExpect(status().isOk())
             .andExpect(jsonPath("homeTeam", is("Germany")))
-            .andExpect(jsonPath("awayTeams", is("Brazil")));
+            .andExpect(jsonPath("awayTeam", is("Brazil")));
     }
 }
